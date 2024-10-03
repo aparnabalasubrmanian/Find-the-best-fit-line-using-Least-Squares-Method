@@ -45,6 +45,11 @@ plt.show()
 ```
 
 ## Output:
+# SLOPE AND Y-INTERCEPT:
+![360801346-ec7cdb04-e2c5-4981-a98f-226160c3eb41](https://github.com/user-attachments/assets/fccfddd4-3ac3-40fa-9fd0-0d5bc86244f2)
+# Y PREDICTED:
+![360801442-589b2574-03d5-48e8-8459-acd8a5938197](https://github.com/user-attachments/assets/f10ea97f-0ee5-4a41-b977-acedd94793ff)
+# GRAPH:
 ![Screenshot (362)](https://github.com/user-attachments/assets/3eed5b5b-242c-45b6-b105-9e661279a356)
 
 ## Result:
