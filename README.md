@@ -16,11 +16,12 @@ STEP 3: Calculate the mean of the X -values and the mean of the Y -values.
 
 STEP 4: Find the slope m of the line of best fit using the formula. 
 
-![image](https://github.com/user-attachments/assets/bf06d3aa-7667-452d-bb7a-fc61fb2ab4d5)
+
+<img width="231" alt="ml i" src="https://github.com/user-attachments/assets/13307648-e3da-4c0f-b171-a86d832fdc13">
 
 STEP 5: Compute the y -intercept of the line by using the formula:
 
-![image](https://github.com/user-attachments/assets/3e8c4f49-8e68-4714-9b28-06494cd6fa27)
+<img width="148" alt="mlj" src="https://github.com/user-attachments/assets/46389190-aeb0-4707-973c-af7875eaa78c">
 
 
 STEP 6: Use the slope m and the y -intercept to form the equation of the line.
